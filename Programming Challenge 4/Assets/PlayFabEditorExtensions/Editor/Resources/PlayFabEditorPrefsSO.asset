@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DevAccountEmail: gajre@sheridancollege.ca
   DevAccountToken: 71ayx431tg1tjry7phknsnaqomp43f6cbsrfptkk97ch5c6icro1h7wbribcif9jsn78d3jum9kd3ksh4esf8dio39yi3kfofm3x6kktfuhpytrcjyyisce6t3pa5d8pii85bekqijs5s9t51qtd7tekd4s4itk1z1co3ttafqnx48pqs7gy53c5qyjydu96i9xq1kqh
-  SelectedStudio: 
+  SelectedStudio: Sheridan College GDAP
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
   curMainMenuIdx: 1
-  curSubMenuIdx: 1
+  curSubMenuIdx: 0
